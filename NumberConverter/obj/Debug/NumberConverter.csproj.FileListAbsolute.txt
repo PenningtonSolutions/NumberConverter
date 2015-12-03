@@ -1,0 +1,9 @@
+C:\Scratch\NumberConverter\NumberConverter\bin\Debug\AppData\Conversions.txt
+C:\Scratch\NumberConverter\NumberConverter\bin\Debug\NumberConverter.exe.config
+C:\Scratch\NumberConverter\NumberConverter\bin\Debug\NumberConverter.exe
+C:\Scratch\NumberConverter\NumberConverter\bin\Debug\NumberConverter.pdb
+C:\Scratch\NumberConverter\NumberConverter\bin\Debug\Converter.dll
+C:\Scratch\NumberConverter\NumberConverter\bin\Debug\Converter.pdb
+C:\Scratch\NumberConverter\NumberConverter\obj\Debug\NumberConverter.csprojResolveAssemblyReference.cache
+C:\Scratch\NumberConverter\NumberConverter\obj\Debug\NumberConverter.exe
+C:\Scratch\NumberConverter\NumberConverter\obj\Debug\NumberConverter.pdb

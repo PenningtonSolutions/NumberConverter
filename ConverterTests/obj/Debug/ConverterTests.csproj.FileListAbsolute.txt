@@ -1,0 +1,14 @@
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\ConverterTests.dll
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\ConverterTests.pdb
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\Converter.dll
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\nunit.core.dll
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\nunit.core.interfaces.dll
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\nunit.framework.dll
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\nunit.util.dll
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\Converter.pdb
+C:\Scratch\NumberConverter\ConverterTests\bin\Debug\nunit.framework.xml
+C:\Scratch\NumberConverter\ConverterTests\obj\Debug\ConverterTests.csprojResolveAssemblyReference.cache
+C:\Scratch\NumberConverter\ConverterTests\obj\Debug\ConverterTests.dll
+C:\Scratch\NumberConverter\ConverterTests\obj\Debug\ConverterTests.pdb

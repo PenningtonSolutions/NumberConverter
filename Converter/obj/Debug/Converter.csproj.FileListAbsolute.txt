@@ -1,0 +1,4 @@
+C:\Scratch\NumberConverter\Converter\bin\Debug\Converter.dll
+C:\Scratch\NumberConverter\Converter\bin\Debug\Converter.pdb
+C:\Scratch\NumberConverter\Converter\obj\Debug\Converter.dll
+C:\Scratch\NumberConverter\Converter\obj\Debug\Converter.pdb
